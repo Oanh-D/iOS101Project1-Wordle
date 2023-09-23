@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-<img hrf ="https://imgur.com/a/ikzy3fr" width = 200px, height = 200px> Wordle</img>
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .<br>
+<img src ="https://imgur.com/a/ikzy3fr" alt = "Wordle">
 
 
 ## Notes
