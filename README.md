@@ -31,8 +31,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .<br>
-<img src ="https://imgur.com/a/ikzy3fr" alt = "Wordle">
+<div style="position: relative; padding-bottom: 212.59842519685037%; height: 0;"><iframe src="https://www.loom.com/embed/173aa68c5b5d403ca68e53a9ca793f00?sid=1205d496-dd5d-49e4-bc6c-193b7364a55c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## Notes
